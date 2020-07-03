@@ -1,0 +1,22 @@
+.position-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.image{
+    width: 30vw;
+    height: 30vh;
+}
+.tittle{
+    text-align: center;
+}
+.end{
+    text-align: center;
+    width: 50vw;
+    background-color: #f8f9fa;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
